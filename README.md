@@ -1,8 +1,8 @@
 # Hi, I'm Hiếu CB 👋
 
-IoT student. I build embedded hardware (ESP32, STM32), computer vision tools in Python, and web products that run right in the browser.
+Student of IoT and Applied Artificial Intelligence. I build embedded hardware (ESP32, STM32), computer vision tools in Python, and web products that run right in the browser.
 
-*Sinh viên ngành IoT. Mình làm phần cứng nhúng (ESP32, STM32), thị giác máy tính bằng Python và các sản phẩm web chạy ngay trên trình duyệt.*
+*Sinh viên ngành IoT và Trí tuệ nhân tạo ứng dụng. Mình làm phần cứng nhúng (ESP32, STM32), thị giác máy tính bằng Python và các sản phẩm web chạy ngay trên trình duyệt.*
 
 ## Featured projects · Dự án nổi bật
 
